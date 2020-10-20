@@ -1,2 +1,2 @@
 # CalculatorLibrary
-Continuous Integration With Python using circleci and pytest
+Continuous Integration With Python using CircleCI and pytest
